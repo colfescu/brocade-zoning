@@ -65,5 +65,5 @@ This software is licensed under the Apache v2 licence.
 
 ## Contact
 
-If you find any bugs and would like to report them, my GitHub username is "colfescu"
+If you run into any problems or would like to provide feedback, please open an issue here https://github.com/colfescu/brocade-zoning/issues
 
