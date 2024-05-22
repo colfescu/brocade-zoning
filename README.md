@@ -39,11 +39,11 @@ The software:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/colfescu/yourprojectname.git
+    git clone https://github.com/colfescu/brocade-zoning.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd yourprojectname
+    cd brocade-zoning
     ```
 3. Install the required dependencies:
     ```sh
