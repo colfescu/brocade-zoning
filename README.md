@@ -53,10 +53,17 @@ The software:
 ## Usage
 
 Add the python script and the Excel spreadsheet in the same directory. 
-Run the script with:
+There are two versions of the script - one creates single-initiator-single-target zones, the other creates single-initiator-multiple-target zones.
+Run the relevant version you require by executing the script with:
 
 ```sh
-python3 brocade-python-v7.py
+python3 brocade-python-v7-single-initiator-multiple-target.py
+```
+or 
+
+
+```sh
+python3 brocade-python-v9-single-initiator-single-target.py
 ```
 
 ## Licence
